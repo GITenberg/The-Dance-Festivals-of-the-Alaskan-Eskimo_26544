@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32086
 description: Paper based on observations on the ceremonial dances of the Eskimo in
   the Bering Strait district.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26544#The-Dance-Festivals-of-the-Alaskan-Eskimo
 gutenberg_issued: '2008-09-06'
 gutenberg_type: Text
 identifiers:
