@@ -1,0 +1,30 @@
+_repo: The-Dance-Festivals-of-the-Alaskan-Eskimo_26544
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hawkes, Ernest William
+    alias: Hawkes, E. W. (Ernest William)
+    birthdate: 1883
+    gutenberg_agent_id: '32086'
+    url: http://www.gutenberg.org/2009/agents/32086
+description: Paper based on observations on the ceremonial dances of the Eskimo in
+  the Bering Strait district.
+gutenberg_issued: '2008-09-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26544'
+  lccn: '15003050'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Eskimos -- Alaska'
+- !lcc 'GN'
+- !lcc 'E011'
+- !lcsh 'Indian dance -- North America'
+title: The Dance Festivals of the Alaskan Eskimo
+url: http://www.gutenberg.org/ebooks/26544
